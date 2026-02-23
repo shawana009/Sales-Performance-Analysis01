@@ -1,0 +1,21 @@
+SELECT TOP (1000) [Invoice_ID]
+      ,[Branch]
+      ,[City]
+      ,[Customer_type]
+      ,[Gender]
+      ,[Product_line]
+      ,[Unit_price]
+      ,[Quantity]
+      ,[Tax_5]
+      ,[Total]
+      ,[Date]
+      ,[Time]
+      ,[Payment]
+      ,[cogs]
+      ,[gross_margin_percentage]
+      ,[gross_income]
+      ,[Rating]
+  FROM [SalesProject].[dbo].[supermarket_sales]
+
+
+ 
