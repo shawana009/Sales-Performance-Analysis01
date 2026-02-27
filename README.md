@@ -53,117 +53,42 @@ Supermarket sales dataset (Excel format)
 ## Author
 Shawana Hakim
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Performed SQL analysis to identify:
+- Total sales
+- Sales by city
+- Sales by product line
+- High-value transactions
+
+Day 4 SQL Analysis:
+- Profit by city
+- Profit by product line
+- Sales by payment method
+- Customer type analysis
+
+# Sales Dashboard – Power BI Project
+
+## Overview
+This project analyzes sales performance using Power BI to identify key trends and business insights.
+
+## Tools Used
+- Power BI
+- Excel
+- Data Cleaning
+- Data Visualization
+
+## Key Insights
+- Total Sales and Profit analysis
+- Product-wise performance
+- Region-wise sales trends
+- Interactive slicers for filtering
+
+## Files
+- dashboard.pbix – Power BI file
+- sales_data.xlsx – Dataset
+- dashboard.png – Dashboard preview
+
+## Author
+Shawana Hakim – Data Analyst
 
 
 # Day 7 – Sales Performance Dashboard (Power BI)
