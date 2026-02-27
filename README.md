@@ -44,3 +44,5 @@ The report is designed to support data-driven decision-making through interactiv
 Shawana Hakim  
 Aspiring Data Analyst  
 Skills: SQL | Python | Excel | Power BI
+
+Day 8: Added Business Insights and Recommendations
