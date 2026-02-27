@@ -1,3 +1,171 @@
+# Sales Performance Analysis
+
+## Project Objective
+Analyze sales data to identify:
+- Top performing regions
+- Best selling products
+- Profit trends
+- Business insights
+
+## Tools Used
+- SQL
+- Python (Pandas, Matplotlib)
+- Power BI
+- Excel
+
+## Project Structure
+- data/ : Raw dataset
+- sql/ : SQL queries
+- python/ : Data cleaning and analysis
+- dashboard/ : Power BI dashboard
+- presentation/ : Final PPT
+
+## Dataset
+Superstore Sales Dataset
+
+Dataset Summary:
+- Records: ~1000
+- Cities: Yangon, Mandalay, Naypyitaw
+- Product lines: 6 categories
+- Time period: 2019
+- No missing values
+
+# Supermarket Sales Analysis
+
+## Project Overview
+This project analyzes supermarket sales data using Python and Pandas.
+
+## Tools Used
+- Python
+- Pandas
+- Google Colab
+- Excel
+
+## Analysis Performed
+- Data loading and cleaning
+- Data exploration
+- Sales insights
+- Customer and product analysis
+
+## Dataset
+Supermarket sales dataset (Excel format)
+
+## Author
+Shawana Hakim
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Day 7 – Sales Performance Dashboard (Power BI)
 
 ## Project Overview
