@@ -8,8 +8,6 @@ This project is part of my Data Analyst Portfolio, demonstrating my skills in da
 
 Dashboard Preview
 
-(Upload your screenshot in the Images folder and keep this name)
-
 ![Dashboard Overview](Images/dashboard_overview.png)
 Business Objectives
 
